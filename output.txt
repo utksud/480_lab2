@@ -1,0 +1,53 @@
+ENSF 480 Lab 2 - Exercise B
+Authors: add both partners' names and UCIDs here
+
+Testing class Point:
+Expected distance between m and n: 3
+Member-function distance: 3
+Static-function distance: 3
+Point objects currently alive: 2
+
+Testing class Square:
+Square Name: SQUARE - S
+X-coordinate: 5.00
+Y-coordinate: 7.00
+Side a: 12.00
+Area: 144.00
+Perimeter: 48.00
+
+Testing class Rectangle:
+Rectangle Name: RECTANGLE A
+X-coordinate: 5.00
+Y-coordinate: 7.00
+Side a: 12.00
+Side b: 15.00
+Area: 180.00
+Perimeter: 54.00
+
+Rectangle Name: RECTANGLE B
+X-coordinate: 16.00
+Y-coordinate: 7.00
+Side a: 8.00
+Side b: 9.00
+Area: 72.00
+Perimeter: 34.00
+
+Distance between rectangles A and B: 11.00
+
+Rectangle B after moving by (-2, 3):
+Rectangle Name: RECTANGLE B
+X-coordinate: 14.00
+Y-coordinate: 10.00
+Side a: 8.00
+Side b: 9.00
+Area: 72.00
+Perimeter: 34.00
+
+Deep-copied rectangle:
+Rectangle Name: RECTANGLE A
+X-coordinate: 5.00
+Y-coordinate: 7.00
+Side a: 12.00
+Side b: 15.00
+Area: 180.00
+Perimeter: 54.00
