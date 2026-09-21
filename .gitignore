@@ -1,0 +1,13 @@
+# Compiled files
+*.o
+lab2exeb
+
+# Build directories
+build/
+cmake-build-*/
+
+# Generated lab report
+*.pdf
+
+# macOS files
+.DS_Store
