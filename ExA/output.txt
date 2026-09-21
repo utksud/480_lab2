@@ -1,0 +1,62 @@
+
+Printing list just after its creation ...
+  List is EMPTY.
+
+Printing list after inserting 3 new keys ...
+  8001  Dilbert
+  8002  Alice
+  8003  Wally
+
+Printing list after removing two keys and inserting PointyHair ...
+  8003  Wally
+  8004  PointyHair
+
+Printing list after changing data for one of the keys ...
+  8003  Sam
+  8004  PointyHair
+
+Printing list after inserting 2 more keys ...
+  8001  Allen
+  8002  Peter
+  8003  Sam
+  8004  PointyHair
+***----Finished dictionary tests---------------------------***
+
+
+Testig a few comparison and insertion operators.
+
+Peter is greater than or equal Allen
+Allen is less than Peter
+Peter is not equal to Allen
+Peter is greater than Allen
+Peter is not less than Allen
+Peter is not equal to Allen
+
+ Using square bracket [] to access elements of datum objects. 
+The socond element of Peter is: e
+The socond element of Poter is: o
+
+Using << to display key/datum pairs in a Dictionary list: 
+  8001  Allen
+  8002  Peter
+  8003  Sam
+  8004  PointyHair
+
+
+Using [] to display the datum only: 
+Allen
+Peter
+Sam
+PointyHair
+
+
+Using [] to display sequence of charaters in a datum: 
+A
+l
+l
+e
+n
+
+
+***----Finished tests for overloading operators ----------***
+
